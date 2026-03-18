@@ -120,7 +120,7 @@ sync_hashes() {
     if [[ "${MALWAREBAZAAR_ENABLED:-true}" == "true" ]]; then
         log "MalwareBazaar (SHA-256, last 48h)..."
         local out="$SCRIPT_DIR/hashes/sha256/malwarebazaar.txt"
-        if curl -sS --max-time "$DOWNLOAD_TIMEOUT" "https://bazaar.abuse.ch/export/txt/sha256/recent/" 2>/dev/null \
+        if curl -sS --retry 3 --retry-delay 5 --max-time "$DOWNLOAD_TIMEOUT" "https://bazaar.abuse.ch/export/txt/sha256/recent/" 2>/dev/null \
             | grep -v '^#\|^$' | while read -r hash; do echo "$hash MalwareBazaar.Recent"; done > "$out.tmp"; then
             local c; c=$(wc -l < "$out.tmp")
             write_header "$out" "abuse.ch MalwareBazaar" "$c"
@@ -135,7 +135,7 @@ sync_hashes() {
     if [[ "${URLHAUS_ENABLED:-true}" == "true" ]]; then
         log "URLhaus payload hashes..."
         local out="$SCRIPT_DIR/hashes/sha256/urlhaus.txt"
-        if curl -sS --max-time "$DOWNLOAD_TIMEOUT" "https://urlhaus.abuse.ch/downloads/payloads/" 2>/dev/null \
+        if curl -sS --retry 3 --retry-delay 5 --max-time "$DOWNLOAD_TIMEOUT" "https://urlhaus.abuse.ch/downloads/payloads/" 2>/dev/null \
             | grep -oP '"[a-f0-9]{64}"' | tr -d '"' | sort -u \
             | while read -r hash; do echo "$hash URLhaus.Payload"; done > "$out.tmp"; then
             local c; c=$(wc -l < "$out.tmp")
@@ -151,7 +151,7 @@ sync_hashes() {
     if [[ "${FEODO_ENABLED:-true}" == "true" ]]; then
         log "Feodo Tracker (banking trojans)..."
         local out="$SCRIPT_DIR/hashes/sha256/feodo.txt"
-        if curl -sS --max-time "$DOWNLOAD_TIMEOUT" "https://feodotracker.abuse.ch/downloads/malware_hashes.csv" 2>/dev/null \
+        if curl -sS --retry 3 --retry-delay 5 --max-time "$DOWNLOAD_TIMEOUT" "https://feodotracker.abuse.ch/downloads/malware_hashes.csv" 2>/dev/null \
             | grep -oP '[a-f0-9]{64}' | sort -u \
             | while read -r hash; do echo "$hash Feodo.BankTrojan"; done > "$out.tmp"; then
             local c; c=$(wc -l < "$out.tmp")
@@ -167,7 +167,7 @@ sync_hashes() {
     if [[ "${THREATFOX_ENABLED:-true}" == "true" ]]; then
         log "ThreatFox IOC hashes..."
         local out="$SCRIPT_DIR/hashes/sha256/threatfox.txt"
-        if curl -sS --max-time "$DOWNLOAD_TIMEOUT" "https://threatfox.abuse.ch/export/json/md5/recent/" 2>/dev/null \
+        if curl -sS --retry 3 --retry-delay 5 --max-time "$DOWNLOAD_TIMEOUT" "https://threatfox.abuse.ch/export/json/md5/recent/" 2>/dev/null \
             | grep -oP '"sha256_hash"\s*:\s*"([a-fA-F0-9]{64})"' | grep -oP '[a-fA-F0-9]{64}' | sort -u \
             | while read -r hash; do echo "$hash ThreatFox.IOC"; done > "$out.tmp"; then
             local c; c=$(wc -l < "$out.tmp")
@@ -183,7 +183,7 @@ sync_hashes() {
     if [[ "${SSLBL_ENABLED:-true}" == "true" ]]; then
         log "SSL Blacklist..."
         local out="$SCRIPT_DIR/hashes/sha256/sslbl.txt"
-        if curl -sS --max-time "$DOWNLOAD_TIMEOUT" "https://sslbl.abuse.ch/blacklist/sslblacklist.csv" 2>/dev/null \
+        if curl -sS --retry 3 --retry-delay 5 --max-time "$DOWNLOAD_TIMEOUT" "https://sslbl.abuse.ch/blacklist/sslblacklist.csv" 2>/dev/null \
             | grep -oP '[a-f0-9]{64}' | sort -u \
             | while read -r hash; do echo "$hash SSLBL.MaliciousCert"; done > "$out.tmp"; then
             local c; c=$(wc -l < "$out.tmp")
@@ -202,7 +202,7 @@ sync_hashes() {
         local vs_total=0
         for i in $(seq "${VIRUSSHARE_LIST_START:-495}" "${VIRUSSHARE_LIST_END:-499}"); do
             local url="https://virusshare.com/hashfiles/VirusShare_$(printf '%05d' "$i").md5"
-            if curl -sS --max-time "$DOWNLOAD_TIMEOUT" "$url" 2>/dev/null \
+            if curl -sS --retry 3 --retry-delay 5 --max-time "$DOWNLOAD_TIMEOUT" "$url" 2>/dev/null \
                 | grep -v '^#' | grep -v '^$' >> "$out.tmp" 2>/dev/null; then
                 vs_total=$((vs_total + 1))
             fi
@@ -325,7 +325,7 @@ sync_clamav() {
 
     for db in main.cvd daily.cvd bytecode.cvd; do
         log "Downloading $db..."
-        if curl -sS --max-time 300 -o "$clamav_dir/$db.tmp" "$mirror/$db" 2>/dev/null; then
+        if curl -sS --retry 3 --retry-delay 5 --max-time 300 -o "$clamav_dir/$db.tmp" "$mirror/$db" 2>/dev/null; then
             # Verify it's a valid CVD (starts with ClamAV-)
             if head -c 7 "$clamav_dir/$db.tmp" 2>/dev/null | grep -q "ClamAV"; then
                 mv "$clamav_dir/$db.tmp" "$clamav_dir/$db"
@@ -364,21 +364,21 @@ sync_ioc() {
 
     if [[ "${IPSUM_ENABLED:-true}" == "true" ]]; then
         log "  IPsum (30+ aggregated sources)..."
-        curl -sS --max-time "$DOWNLOAD_TIMEOUT" \
+        curl -sS --retry 3 --retry-delay 5 --max-time "$DOWNLOAD_TIMEOUT" \
             "https://raw.githubusercontent.com/stamparm/ipsum/master/ipsum.txt" 2>/dev/null \
             | grep -v '^#' | awk '{print $1}' >> "$ioc_dir/ip-blocklist.txt.tmp" || true
     fi
 
     if [[ "${FIREHOL_ENABLED:-true}" == "true" ]]; then
         log "  FireHOL level1..."
-        curl -sS --max-time "$DOWNLOAD_TIMEOUT" \
+        curl -sS --retry 3 --retry-delay 5 --max-time "$DOWNLOAD_TIMEOUT" \
             "https://iplists.firehol.org/files/firehol_level1.netset" 2>/dev/null \
             | grep -v '^#' >> "$ioc_dir/ip-blocklist.txt.tmp" || true
     fi
 
     if [[ "${ET_COMPROMISED_ENABLED:-true}" == "true" ]]; then
         log "  Emerging Threats compromised IPs..."
-        curl -sS --max-time "$DOWNLOAD_TIMEOUT" \
+        curl -sS --retry 3 --retry-delay 5 --max-time "$DOWNLOAD_TIMEOUT" \
             "https://rules.emergingthreats.net/blockrules/compromised-ips.txt" 2>/dev/null \
             | grep -v '^#' >> "$ioc_dir/ip-blocklist.txt.tmp" || true
     fi
@@ -396,7 +396,7 @@ sync_ioc() {
 
     if [[ "${SANS_ENABLED:-true}" == "true" ]]; then
         log "  SANS suspicious domains..."
-        curl -sS --max-time "$DOWNLOAD_TIMEOUT" \
+        curl -sS --retry 3 --retry-delay 5 --max-time "$DOWNLOAD_TIMEOUT" \
             "https://isc.sans.edu/feeds/suspiciousdomains_High.txt" 2>/dev/null \
             | grep -v '^#\|^$\|Site' >> "$ioc_dir/domain-blocklist.txt.tmp" || true
     fi
@@ -413,7 +413,7 @@ sync_ioc() {
 
     if [[ "${URLHAUS_URLS_ENABLED:-true}" == "true" ]]; then
         log "  URLhaus malicious URLs..."
-        curl -sS --max-time "$DOWNLOAD_TIMEOUT" \
+        curl -sS --retry 3 --retry-delay 5 --max-time "$DOWNLOAD_TIMEOUT" \
             "https://urlhaus.abuse.ch/downloads/text_recent/" 2>/dev/null \
             | grep -v '^#\|^$' >> "$ioc_dir/url-blocklist.txt.tmp" || true
     fi
