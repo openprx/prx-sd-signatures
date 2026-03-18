@@ -1,0 +1,52 @@
+name: Sync Signatures
+
+on:
+  schedule:
+    # Run every 6 hours
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+    inputs:
+      category:
+        description: 'Category to sync (all, hashes, yara, clamav, ioc)'
+        required: false
+        default: 'all'
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Install dependencies
+        run: sudo apt-get install -y curl git
+
+      - name: Run sync
+        run: |
+          chmod +x sync.sh
+          ./sync.sh --category ${{ github.event.inputs.category || 'all' }}
+
+      - name: Show stats
+        run: ./sync.sh --stats
+
+      - name: Commit and push
+        run: |
+          git config user.name "PRX-SD Bot"
+          git config user.email "bot@prx-sd.dev"
+          git add -A
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            DATE=$(date -u +"%Y-%m-%d %H:%M UTC")
+            HASH_COUNT=$(cat hashes/sha256/*.txt 2>/dev/null | grep -cv '^#\|^$' || echo 0)
+            YARA_COUNT=$(find yara -name "*.yar" -o -name "*.yara" 2>/dev/null | wc -l)
+            git commit -m "sync: update signatures ($DATE)
+
+            SHA-256 hashes: $HASH_COUNT
+            YARA files: $YARA_COUNT"
+            git push
+          fi

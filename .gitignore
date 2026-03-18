@@ -1,0 +1,22 @@
+# Temporary sync files
+*.tmp
+*.bak
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# ClamAV large databases (downloaded on demand)
+clamav/*.cvd
+clamav/*.cld
+
+# VirusShare bulk hashes (too large for git)
+hashes/md5/virusshare_*.md5
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
