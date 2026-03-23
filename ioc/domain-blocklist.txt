@@ -130,7 +130,7 @@
         <div class="isc-signin">
         <div class="questions-sidebar">
         <h1>
-        <p>This site is powered by <a href="/contact.html">your submissions</a>, so tell us <a href="/howto.html">what you see happening</a></p>
+        <p>Follow updates by subscribing to the handler's <a href="/rssfeed.xml">diary RSS feed</a></p>
         <span class="bar" aria-hidden="true"></span>
         <ul>
         help in debugging.
@@ -182,7 +182,7 @@
 <!-- end Slack -->
 <!-- end mastodon -->
 <!-- social media links -->
-<!-- this is not the comment you are looking for 8b460e9d9513 -->
+<!-- this is not the comment you are looking for dda178259e98ff7ff -->
 <!doctype html><html lang="en"><head><title>ERROR - SANS Internet Storm Center</title>
 </a>
 </body></html>
