@@ -130,7 +130,7 @@
         <div class="isc-signin">
         <div class="questions-sidebar">
         <h1>
-        <p>Subscribe to the daily podcast via <a href="/dailypodcast.xml">RSS</a> or <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=304863991">iTunes</a></p>
+        <p>Follow updates by subscribing to the handler's <a href="/rssfeed.xml">diary RSS feed</a></p>
         <span class="bar" aria-hidden="true"></span>
         <ul>
         help in debugging.
@@ -182,7 +182,7 @@
 <!-- end Slack -->
 <!-- end mastodon -->
 <!-- social media links -->
-<!-- this is not the comment you are looking for 6e943112c2ae040 -->
+<!-- this is not the comment you are looking for 188e648ea9 -->
 <!doctype html><html lang="en"><head><title>ERROR - SANS Internet Storm Center</title>
 </a>
 </body></html>
