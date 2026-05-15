@@ -130,7 +130,7 @@
         <div class="isc-signin">
         <div class="questions-sidebar">
         <h1>
-        <p>Have you heard our daily podcast covering the latest <a href="/podcast.html">information security threats</a>?</p>
+        <p>Subscribe to the daily podcast via <a href="/dailypodcast.xml">RSS</a> or <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=304863991">iTunes</a></p>
         <span class="bar" aria-hidden="true"></span>
         <ul>
         help in debugging.
@@ -182,7 +182,7 @@
 <!-- end Slack -->
 <!-- end mastodon -->
 <!-- social media links -->
-<!-- this is not the comment you are looking for 36b83dbf7677fe989 -->
+<!-- this is not the comment you are looking for f67e9f8fe48dd -->
 <!doctype html><html lang="en"><head><title>ERROR - SANS Internet Storm Center</title>
 </a>
 </body></html>
