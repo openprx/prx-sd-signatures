@@ -4,7 +4,7 @@
 		            <div>
 		            <li class="first"><a href="/contact.html">Contact Us</a></li>
 		        <div class="isc-alerts">
-		    <div class="main-content">
+		    <div class="main-content">    <p>Sorry, the page you where looking for could not be displayed at this time.</p>
 		    <div class="wrapper">
 		    <li><a href="/tools/honeypot">Honeypot (RPi/AWS)</a></li>
 		   "addressCountry": "USA",
@@ -19,7 +19,7 @@
 	                <svg style="width:20px;height:20px" viewBox="0 0 24 24">
 	            <a href="/index.html">
 	          "https://twitter.com/sans_isc"
-	        <li class="active">
+	        <li>
 	    <div id="content">
 	"@context": "https://schema.org",
 	"@type": "Organization",
@@ -88,12 +88,6 @@
                 <a href="/podcast.html">
                 <a href="/tools/">
                 <g fill="none" fill-rule="evenodd">
-                <h1>Diaries</h1>
-                <h1>Jobs</h1>
-                <h1>Podcasts</h1>
-                <h3 style="text-align: right"><a href="/diaryarchive.html">View All</a></h3>
-                <h3 style="text-align: right"><a href="/jobs/">View All</a></h3>
-                <h3 style="text-align: right"><a href="/podcast">View All</a></h3>
                 <input type="hidden" id="token" name="token" value="" />
                 <input type="text" name="q" placeholder="Search...(IP, Port..)" />
                 <li class="linkedin"><a rel="noopener" href="https://www.linkedin.com/groups?gid=35470" arialabel="LinkedIn Group"><span class="linkedin"></span></a></li>
@@ -119,8 +113,6 @@
             <a rel="noopener" href="/slack/index.html">Slack Channel</a>
             <a rel="noopener" href="https://twitter.com/sans_isc">X</a>
             <div id="smallHeaderLogin">
-            <div style="float: left">
-            <div style="float: right">
             <form id="headerSearch" name="searchform" action="/search.html" method="get">
             <li>
             <span id="pagetitle">            <a href="/">Internet Storm Center</a></span>
@@ -132,22 +124,16 @@
         </div>
         </h1>
         </ul>
-        <br>
-        <div class="card-header">
-        <div class="card-small" id="homepage-diaries"></div>
-        <div class="card-small" id="homepage-jobs"></div>
-        <div class="card-small" id="homepage-podcast"></div>
         <div class="eupopup eupopup-top"></div>
         <div class="footer-links">
         <div class="footer-social">
         <div class="isc-signin">
-        <div class="loading" id="jobs-loading"></div>
-        <div class="loading" id="podcast-loading"></div>
         <div class="questions-sidebar">
         <h1>
-        <p>Keep yourself informed with our <a href="/newssummary.html">aggregate InfoSec news</a></p>
+        <p>Have you seen our swag? <a href="http://www.cafepress.com/stormcenter">Buy SANS ISC Gear</a></p>
         <span class="bar" aria-hidden="true"></span>
         <ul>
+        help in debugging.
         },
       </li>
     <!--<link type="text/css" rel="stylesheet" href="/3p/highlight/default.min.css" />-->
@@ -158,10 +144,9 @@
     <div id="container" class="isc-container">
     <div id="navigation" class="isc-nav">
     <div id="sidebar">
-    <div>
     <header id="isc-header">
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="canonical" href="https://isc.sans.edu/index_dyn.html" />
+    <link rel="canonical" href="https://isc.sans.edu/error_dyn.html" />
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
     <link rel="manifest" href="/site.webmanifest">
@@ -174,40 +159,32 @@
     <meta charset="utf-8">
     <meta name="AUTHOR" content="SANS Internet Storm Center"/>
     <meta name="KEYWORDS" content="isc&comma; sans&comma; internet&comma; security&comma; threat&comma; worm&comma; virus&comma; phishing&comma; hacking&comma; vulnerability&comma; podcast"/>
-    <meta name="description" content="SANS&period;edu Internet Storm Center&period; Today&apos;s Top Story&colon; The Evil MSI Background is Back&excl;&semi;">
+    <meta name="description" content="SANS Internet Storm Center - A global cooperative cyber threat &sol; internet security monitor and alert system&period; Featuring daily handler diaries with summarizing and analyzing new threats to networks and internet security events&period;">
     <meta name="viewport" content="" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta property="og:description" content="SANS.edu Internet Storm Center. Today&#039;s Top Story: The Evil MSI Background is Back!;">
+    <meta property="og:description" content="SANS Internet Storm Center - A global cooperative cyber threat / internet security monitor and alert system. Featuring daily handler diaries with summarizing and analyzing new threats to networks and internet security events.">
     <meta property="og:image" content="https://isc.sans.edu/images/logos/isc/large.png" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:site_name" content="SANS Internet Storm Center" />
-    <meta property="og:title" content="SANS.edu Internet Storm Center - SANS Internet Storm Center" />
+    <meta property="og:title" content="ERROR - SANS Internet Storm Center" />
     <meta property="og:type" content="website" />
-    <meta property="og:url" content="https://isc.sans.edu/index_dyn.html" />
+    <meta property="og:url" content="https://isc.sans.edu/error_dyn.html" />
     <meta property="twitter:card" content="summary_large_image" />
     <meta property="twitter:creator" content="@sans_isc" />
     <meta property="twitter:image" content="https://isc.sans.edu/images/logos/isc/large.png" >
     <meta property="twitter:image:alt" content="SANS Internet Storm Center" />
     <meta property="twitter:site" content="@sans_isc" />
-    <meta property="twitter:title" content="SANS.edu Internet Storm Center - SANS Internet Storm Center" />
+    <meta property="twitter:title" content="ERROR - SANS Internet Storm Center" />
+    <p>Please use our <a href="/contact.html">Contact Page</a> to notify us of any problems. Include your IP address to
     <span id="isc-menu" class="isc-menu" tabindex="0" aria-label="Open the menu">
-  <link rel="alternate" type="application/rss+xml" title="Podcast" href="dailypodcast.xml" />
-  <link rel="alternate" type="application/rss+xml" title="RSS Full Content" href="rssfeed_full.xml" />
-  <link rel="alternate" type="application/rss+xml" title="RSS Headlines" href="rssfeed.xml" />
-  <link type="text/css" rel="stylesheet" href="/css/home.css" />
-  <script src="/js/jquery.min.js"></script>
-  <script src="js/apn.js"></script>
-  <script src="js/homepage.js"></script>
-  <script src="js/timezone.js"></script>
 <!-- begin Slack -->
 <!-- begin mastodon -->
 <!-- end Slack -->
 <!-- end mastodon -->
 <!-- social media links -->
-<!-- this is not the comment you are looking for f646d1880c3f4d890c3b -->
-<!doctype html><html lang="en"><head><title>SANS.edu Internet Storm Center - SANS Internet Storm Center</title>
+<!-- this is not the comment you are looking for 1fbaafe22ec4 -->
+<!doctype html><html lang="en"><head><title>ERROR - SANS Internet Storm Center</title>
 </a>
-</a></div>
 </body></html>
 </div>
 </head>
@@ -216,7 +193,6 @@
 <a href="/about.html">
 <a rel="me" href="https://bsky.app/profile/sansisc.bsky.social">Bluesky</a>
 <body class="isc">
-<div class="oneliner"><a href="podcastdetail/9960">SANS Stormcast Friday, June 5th, 2026: Coreutils for Windows; Cisco Unified Comm Manager Fix and Exploit; OAuth Orphans
 <div class="questions-sidebar">
 <div id="footer">
 <input class="btn btn-primary" type="submit" name="Search" value="Search">
