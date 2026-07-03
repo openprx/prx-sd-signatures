@@ -204,6 +204,7 @@ http://105.111.24.85:41538/i
 http://105.155.11.88:42977/Mozi.a
 http://105.158.234.57:53893/bin.sh
 http://105.158.234.57:53893/i
+http://105.184.147.227:38141/i
 http://105.184.182.42:54111/bin.sh
 http://105.184.182.42:54111/i
 http://105.184.30.75:49789/bin.sh
@@ -306,6 +307,7 @@ http://108.170.136.155:56097/i
 http://109.104.153.60/bins/frosty.mips
 http://109.104.153.60/icy.sh
 http://109.104.153.60/sh
+http://109.120.178.196/downloads/sshd/ubuntu/log
 http://109.165.71.86:42014/bin.sh
 http://109.165.71.86:42014/i
 http://109.226.203.246:10650/bin.sh
@@ -329,6 +331,7 @@ http://110.186.230.198:48347/i
 http://110.186.230.50:55772/bin.sh
 http://110.186.230.50:55772/i
 http://110.186.230.73:49929/bin.sh
+http://110.186.230.73:49929/i
 http://110.186.231.27:35324/bin.sh
 http://110.186.231.27:35324/i
 http://110.243.27.65:59502/bin.sh
@@ -595,6 +598,8 @@ http://110.36.80.163:38574/bin.sh
 http://110.36.80.163:38574/i
 http://110.36.80.163:55661/bin.sh
 http://110.36.80.163:55661/i
+http://110.36.80.166:60321/bin.sh
+http://110.36.80.166:60321/i
 http://110.36.80.169:54978/bin.sh
 http://110.36.80.169:54978/i
 http://110.36.80.170:32924/bin.sh
@@ -941,6 +946,7 @@ http://110.38.221.60:34046/i
 http://110.38.222.91:32921/Mozi.m
 http://110.38.223.172:33093/bin.sh
 http://110.38.223.172:33093/i
+http://110.38.223.172:40368/i
 http://110.38.223.172:54738/bin.sh
 http://110.38.223.172:54738/i
 http://110.38.230.102:46215/bin.sh
@@ -1134,6 +1140,8 @@ http://111.173.159.215:55707/bin.sh
 http://111.173.159.215:55707/i
 http://111.178.127.16:37411/bin.sh
 http://111.178.127.16:37411/i
+http://111.185.147.232:52770/bin.sh
+http://111.185.147.232:52770/i
 http://111.220.66.152:33532/i
 http://111.35.78.2:28728/bin.sh
 http://111.35.78.2:28728/i
@@ -1644,6 +1652,7 @@ http://115.50.3.72:59256/bin.sh
 http://115.50.3.72:59256/i
 http://115.50.31.200:40194/bin.sh
 http://115.50.31.200:40194/i
+http://115.50.32.178:53978/i
 http://115.50.36.105:52155/bin.sh
 http://115.50.36.105:52155/i
 http://115.50.36.20:52902/i
@@ -1690,6 +1699,7 @@ http://115.52.121.177:56168/bin.sh
 http://115.52.121.177:56168/i
 http://115.52.122.102:47032/bin.sh
 http://115.52.122.102:47032/i
+http://115.52.16.242:37666/i
 http://115.52.17.1:39287/bin.sh
 http://115.52.17.1:39287/i
 http://115.52.176.217:51161/bin.sh
@@ -1947,6 +1957,8 @@ http://115.56.149.183:35005/i
 http://115.56.149.232:57552/i
 http://115.56.150.110:44124/bin.sh
 http://115.56.150.110:44124/i
+http://115.56.151.194:33173/bin.sh
+http://115.56.151.194:33173/i
 http://115.56.155.119:45615/bin.sh
 http://115.56.155.119:45615/i
 http://115.56.155.139:43277/bin.sh
@@ -2144,6 +2156,7 @@ http://115.61.119.159:41516/bin.sh
 http://115.61.119.159:41516/i
 http://115.61.120.210:53341/bin.sh
 http://115.61.120.210:53341/i
+http://115.61.120.210:60517/bin.sh
 http://115.61.120.210:60517/i
 http://115.61.120.211:50266/i
 http://115.61.120.231:45434/bin.sh
@@ -2430,6 +2443,7 @@ http://119.118.251.219:48407/bin.sh
 http://119.118.251.219:48407/i
 http://119.118.77.193:60669/bin.sh
 http://119.118.77.193:60669/i
+http://119.118.88.63:60669/i
 http://119.119.164.93:48407/bin.sh
 http://119.119.164.93:48407/i
 http://119.119.182.255:48407/Mozi.m
@@ -2653,6 +2667,8 @@ http://123.11.8.74:44379/bin.sh
 http://123.11.8.74:44379/i
 http://123.11.96.237:50004/bin.sh
 http://123.11.96.237:50004/i
+http://123.12.152.20:56168/bin.sh
+http://123.12.152.20:56168/i
 http://123.12.157.119:38580/bin.sh
 http://123.12.157.119:38580/i
 http://123.12.16.245:48342/bin.sh
@@ -2872,6 +2888,8 @@ http://123.188.73.220:49388/bin.sh
 http://123.188.73.220:49388/i
 http://123.188.74.63:40312/bin.sh
 http://123.188.74.63:40312/i
+http://123.188.80.212:40750/bin.sh
+http://123.188.80.212:40750/i
 http://123.188.83.140:54309/bin.sh
 http://123.188.83.140:54309/i
 http://123.188.85.241:50099/bin.sh
@@ -3050,6 +3068,7 @@ http://123.8.88.59:54697/i
 http://123.8.89.69:58570/bin.sh
 http://123.8.89.69:58570/i
 http://123.8.92.64:33892/i
+http://123.9.10.105:57001/bin.sh
 http://123.9.10.105:57001/i
 http://123.9.110.216:59818/bin.sh
 http://123.9.110.216:59818/i
@@ -3313,6 +3332,8 @@ http://125.41.72.161:32816/i
 http://125.41.79.73:44691/bin.sh
 http://125.41.79.73:44691/i
 http://125.41.8.228:47846/i
+http://125.41.8.75:54629/bin.sh
+http://125.41.8.75:54629/i
 http://125.41.93.102:60630/bin.sh
 http://125.41.93.102:60630/i
 http://125.41.94.218:52005/bin.sh
@@ -3326,6 +3347,7 @@ http://125.42.119.63:53153/bin.sh
 http://125.42.119.63:53153/i
 http://125.42.125.127:55231/bin.sh
 http://125.42.125.127:55231/i
+http://125.42.14.44:45793/bin.sh
 http://125.42.14.44:45793/i
 http://125.42.233.249:47494/bin.sh
 http://125.42.233.249:47494/i
@@ -3411,6 +3433,7 @@ http://125.44.205.98:38411/bin.sh
 http://125.44.205.98:38411/i
 http://125.44.206.11:43393/i
 http://125.44.208.191:58286/i
+http://125.44.209.117:39250/bin.sh
 http://125.44.209.117:39250/i
 http://125.44.209.191:45940/bin.sh
 http://125.44.209.191:45940/i
@@ -3478,6 +3501,8 @@ http://125.45.48.220:35918/i
 http://125.45.59.71:54877/bin.sh
 http://125.45.59.71:54877/i
 http://125.45.60.46:33398/i
+http://125.45.63.235:53847/bin.sh
+http://125.45.63.235:53847/i
 http://125.45.64.185:52195/bin.sh
 http://125.45.64.185:52195/i
 http://125.45.66.153:40467/bin.sh
@@ -3541,6 +3566,7 @@ http://125.47.93.35:38323/bin.sh
 http://125.47.93.35:38323/i
 http://125.99.206.137:56905/bin.sh
 http://125.99.206.137:56905/i
+http://129.121.114.124/0Rw
 http://129.121.114.124/0UKX
 http://129.121.114.124/0bZe
 http://129.121.114.124/0tf
@@ -3564,11 +3590,13 @@ http://129.121.114.124/5Js
 http://129.121.114.124/5KP
 http://129.121.114.124/5e1
 http://129.121.114.124/5nq3
+http://129.121.114.124/5uk
 http://129.121.114.124/5wG
 http://129.121.114.124/5win
 http://129.121.114.124/6F8
 http://129.121.114.124/6Peh
 http://129.121.114.124/6k2
+http://129.121.114.124/76G
 http://129.121.114.124/7ICw
 http://129.121.114.124/7Sae
 http://129.121.114.124/7T8
@@ -3585,6 +3613,7 @@ http://129.121.114.124/AMt
 http://129.121.114.124/AptL
 http://129.121.114.124/B16
 http://129.121.114.124/BRfB
+http://129.121.114.124/Bt7G
 http://129.121.114.124/BtV
 http://129.121.114.124/C3A
 http://129.121.114.124/CX36
@@ -3598,6 +3627,7 @@ http://129.121.114.124/DTie
 http://129.121.114.124/DWzd
 http://129.121.114.124/DsI5
 http://129.121.114.124/E8O
+http://129.121.114.124/E8mc
 http://129.121.114.124/EIxV
 http://129.121.114.124/ErtB
 http://129.121.114.124/EwL
@@ -3615,11 +3645,13 @@ http://129.121.114.124/JFc
 http://129.121.114.124/JMw
 http://129.121.114.124/JkP
 http://129.121.114.124/JtO
+http://129.121.114.124/Jvbm
 http://129.121.114.124/Jwb
 http://129.121.114.124/K78
 http://129.121.114.124/KAo
 http://129.121.114.124/KBw
 http://129.121.114.124/KHk4
+http://129.121.114.124/KlqK
 http://129.121.114.124/L5tM
 http://129.121.114.124/LdFq
 http://129.121.114.124/Lx6K
@@ -3628,8 +3660,10 @@ http://129.121.114.124/MEdd
 http://129.121.114.124/MXz
 http://129.121.114.124/N1Z
 http://129.121.114.124/N2sh
+http://129.121.114.124/N5r
 http://129.121.114.124/N924
 http://129.121.114.124/Nwk
+http://129.121.114.124/OEr
 http://129.121.114.124/OFt
 http://129.121.114.124/OIx
 http://129.121.114.124/ORyd
@@ -3648,7 +3682,9 @@ http://129.121.114.124/Rs9
 http://129.121.114.124/Se9I
 http://129.121.114.124/T0kc
 http://129.121.114.124/TYiQ
+http://129.121.114.124/TwnE
 http://129.121.114.124/UagA
+http://129.121.114.124/UbM
 http://129.121.114.124/Uhj
 http://129.121.114.124/Un7U
 http://129.121.114.124/UuZ4
@@ -3664,6 +3700,7 @@ http://129.121.114.124/XKw
 http://129.121.114.124/XVj
 http://129.121.114.124/Xju
 http://129.121.114.124/XzsJ
+http://129.121.114.124/Yex
 http://129.121.114.124/Z0LE
 http://129.121.114.124/ZLGL
 http://129.121.114.124/ZPg
@@ -3680,7 +3717,9 @@ http://129.121.114.124/eQA
 http://129.121.114.124/eXE
 http://129.121.114.124/egV
 http://129.121.114.124/enZd
+http://129.121.114.124/fO0
 http://129.121.114.124/g0G
+http://129.121.114.124/gil
 http://129.121.114.124/gq2
 http://129.121.114.124/hSs3
 http://129.121.114.124/hUf
@@ -3713,6 +3752,7 @@ http://129.121.114.124/p
 http://129.121.114.124/pFdY
 http://129.121.114.124/pc33
 http://129.121.114.124/rH4
+http://129.121.114.124/rXF
 http://129.121.114.124/ropd
 http://129.121.114.124/sxR
 http://129.121.114.124/tB3
@@ -3926,6 +3966,7 @@ http://141.11.88.128/bins/arm6
 http://141.11.88.128/bins/arm7
 http://141.11.88.128/bins/m68k
 http://141.11.88.128/bins/mips
+http://141.11.88.128/bins/mpsl
 http://141.11.88.128/bins/ppc
 http://141.11.88.128/bins/sh4
 http://141.11.88.128/bins/spc
@@ -3947,14 +3988,20 @@ http://141.11.88.128/c.sh
 http://141.11.88.128/w.sh
 http://141.11.88.128/wget.sh
 http://141.11.88.129/c.sh
+http://141.11.88.129/main_arc
 http://141.11.88.129/main_arm
+http://141.11.88.129/main_arm5
 http://141.11.88.129/main_arm6
 http://141.11.88.129/main_arm7
+http://141.11.88.129/main_i586
+http://141.11.88.129/main_i686
 http://141.11.88.129/main_m68k
 http://141.11.88.129/main_mips
+http://141.11.88.129/main_mipsel
 http://141.11.88.129/main_mpsl
 http://141.11.88.129/main_ppc
 http://141.11.88.129/main_sh4
+http://141.11.88.129/main_sparc
 http://141.11.88.129/main_x86
 http://141.11.88.129/main_x86_64
 http://141.11.88.129/mq.xml
@@ -4494,10 +4541,14 @@ http://171.125.230.149:48861/i
 http://171.15.88.209:50001/Mozi.m
 http://171.15.89.112:50001/Mozi.m
 http://171.15.89.112:50001/bin.sh
+http://171.213.135.23:40087/bin.sh
+http://171.213.135.23:40087/i
 http://171.213.174.235:43913/bin.sh
 http://171.213.174.235:43913/i
 http://171.213.175.245:60875/i
 http://171.38.150.52:53025/bin.sh
+http://171.38.25.33:47753/bin.sh
+http://171.38.25.33:47753/i
 http://171.38.40.122:47753/bin.sh
 http://171.38.40.122:47753/i
 http://171.38.64.115:47753/bin.sh
@@ -4545,6 +4596,7 @@ http://175.146.155.98:50774/i
 http://175.146.158.57:37571/bin.sh
 http://175.146.158.57:37571/i
 http://175.146.204.245:50287/i
+http://175.146.229.121:55858/bin.sh
 http://175.146.229.121:55858/i
 http://175.146.231.239:42122/bin.sh
 http://175.146.231.239:42122/i
@@ -5194,6 +5246,7 @@ http://178.16.54.93:81/armv7l
 http://178.165.125.212:20418/bin.sh
 http://178.165.125.212:20418/i
 http://178.165.125.212:37192/bin.sh
+http://178.176.107.122:33136/i
 http://178.176.107.122:60094/bin.sh
 http://178.176.107.122:60094/i
 http://178.205.159.228:58101/Mozi.7
@@ -5422,6 +5475,7 @@ http://182.115.71.94:46604/bin.sh
 http://182.115.71.94:46604/i
 http://182.116.112.128:59281/bin.sh
 http://182.116.112.128:59281/i
+http://182.116.113.116:51117/bin.sh
 http://182.116.113.116:51117/i
 http://182.116.114.151:37096/bin.sh
 http://182.116.114.151:37096/i
@@ -5433,6 +5487,7 @@ http://182.116.116.205:49661/i
 http://182.116.118.121:50605/bin.sh
 http://182.116.118.121:50605/i
 http://182.116.118.163:43726/i
+http://182.116.12.154:55908/bin.sh
 http://182.116.120.105:34489/bin.sh
 http://182.116.120.105:34489/i
 http://182.116.120.133:57660/i
@@ -5565,6 +5620,7 @@ http://182.119.165.244:39261/bin.sh
 http://182.119.165.244:39261/i
 http://182.119.166.194:34505/bin.sh
 http://182.119.166.194:34505/i
+http://182.119.179.36:59445/i
 http://182.119.196.112:40452/bin.sh
 http://182.119.196.112:40452/i
 http://182.119.196.130:50938/bin.sh
@@ -5641,6 +5697,8 @@ http://182.121.11.158:41632/bin.sh
 http://182.121.11.158:41632/i
 http://182.121.113.57:42249/bin.sh
 http://182.121.113.57:42249/i
+http://182.121.115.145:35642/bin.sh
+http://182.121.115.145:35642/i
 http://182.121.115.226:37413/i
 http://182.121.115.4:38631/bin.sh
 http://182.121.115.4:38631/i
@@ -5669,6 +5727,8 @@ http://182.121.160.147:44269/Mozi.m
 http://182.121.165.5:34989/i
 http://182.121.168.120:51172/bin.sh
 http://182.121.168.120:51172/i
+http://182.121.168.77:35257/bin.sh
+http://182.121.168.77:35257/i
 http://182.121.169.172:54591/bin.sh
 http://182.121.169.172:54591/i
 http://182.121.171.199:58805/bin.sh
@@ -5704,6 +5764,7 @@ http://182.121.237.235:43342/i
 http://182.121.241.215:45876/bin.sh
 http://182.121.241.215:45876/i
 http://182.121.251.167:56537/i
+http://182.121.253.155:47156/i
 http://182.121.44.209:50823/bin.sh
 http://182.121.44.209:50823/i
 http://182.121.46.35:57127/bin.sh
@@ -5719,6 +5780,8 @@ http://182.121.8.2:45313/i
 http://182.121.86.60:49917/bin.sh
 http://182.122.171.35:53507/bin.sh
 http://182.122.171.35:53507/i
+http://182.122.198.147:41266/bin.sh
+http://182.122.198.147:41266/i
 http://182.122.224.134:55128/bin.sh
 http://182.122.224.134:55128/i
 http://182.122.224.134:56491/bin.sh
@@ -5947,6 +6010,7 @@ http://182.127.36.64:43772/bin.sh
 http://182.127.36.64:43772/i
 http://182.127.38.188:36121/bin.sh
 http://182.127.38.188:36121/i
+http://182.127.38.31:48902/bin.sh
 http://182.127.38.31:48902/i
 http://182.127.39.231:36713/bin.sh
 http://182.127.39.231:36713/i
@@ -6625,6 +6689,7 @@ http://195.96.132.13/x
 http://196.135.205.23:49805/Mozi.7
 http://196.135.205.23:49805/Mozi.a
 http://196.188.135.20:43927/bin.sh
+http://196.188.135.20:43927/i
 http://196.188.135.20:45066/bin.sh
 http://196.188.135.20:45066/i
 http://196.188.135.20:49511/i
@@ -6878,6 +6943,7 @@ http://210.97.100.192:44564/bin.sh
 http://210.97.100.192:44564/i
 http://211.158.161.158:34707/bin.sh
 http://211.158.161.158:34707/i
+http://211.158.167.180:34707/i
 http://212.164.115.235:46901/bin.sh
 http://212.164.115.235:46901/i
 http://212.164.115.235:55869/bin.sh
@@ -7223,6 +7289,8 @@ http://219.156.21.164:59091/bin.sh
 http://219.156.21.164:59091/i
 http://219.156.22.2:32963/bin.sh
 http://219.156.22.2:32963/i
+http://219.156.244.153:56879/bin.sh
+http://219.156.244.153:56879/i
 http://219.156.33.246:43835/bin.sh
 http://219.156.33.246:43835/i
 http://219.156.34.86:37807/bin.sh
@@ -7306,6 +7374,8 @@ http://220.177.10.130:59693/i
 http://220.177.11.29:59693/bin.sh
 http://220.184.170.118:56953/bin.sh
 http://220.184.170.118:56953/i
+http://220.184.94.118:57971/bin.sh
+http://220.184.94.118:57971/i
 http://220.191.125.228:52333/bin.sh
 http://220.191.125.228:52333/i
 http://220.192.106.23:54329/Mozi.m
@@ -7393,6 +7463,8 @@ http://221.15.14.239:45986/bin.sh
 http://221.15.14.239:45986/i
 http://221.15.14.72:40035/bin.sh
 http://221.15.14.72:40035/i
+http://221.15.145.214:39615/bin.sh
+http://221.15.145.214:39615/i
 http://221.15.146.137:55021/bin.sh
 http://221.15.146.137:55021/i
 http://221.15.147.15:53462/bin.sh
@@ -7608,6 +7680,7 @@ http://222.138.151.220:36233/i
 http://222.138.176.49:59282/i
 http://222.138.178.11:43696/bin.sh
 http://222.138.178.54:38050/i
+http://222.138.180.248:57746/i
 http://222.138.181.61:41501/bin.sh
 http://222.138.181.61:41501/i
 http://222.138.182.107:39386/bin.sh
@@ -7641,6 +7714,7 @@ http://222.139.33.64:54465/bin.sh
 http://222.139.33.64:54465/i
 http://222.139.35.187:53691/bin.sh
 http://222.139.35.187:53691/i
+http://222.139.35.92:50019/i
 http://222.139.40.145:52708/bin.sh
 http://222.139.40.145:52708/i
 http://222.139.40.4:41545/bin.sh
@@ -8072,6 +8146,7 @@ http://27.44.145.144:40003/i
 http://27.44.145.146:52583/i
 http://27.44.145.147:52992/i
 http://27.44.145.175:46745/i
+http://27.44.145.185:41522/i
 http://27.44.145.195:56018/bin.sh
 http://27.44.145.195:56018/i
 http://27.44.145.210:40585/bin.sh
@@ -8117,6 +8192,8 @@ http://27.44.147.223:50746/i
 http://27.44.147.24:60944/i
 http://27.44.147.25:46002/bin.sh
 http://27.44.147.25:46002/i
+http://27.44.147.40:37399/bin.sh
+http://27.44.147.40:37399/i
 http://27.44.147.60:52992/i
 http://27.44.147.71:34846/i
 http://27.44.147.81:48312/i
@@ -8235,7 +8312,6 @@ http://31.77.57.234/180/wegivenbestthingsforbetterplaceforme.hta
 http://31.77.57.234/httpswww.pcmag.compicksthe-best-cloud-storage-and-file-sharing-servicestest_uuid=05ZUPUtSJIjL9ET37tWfQcl&test_variant=APP.php
 http://34.45.47.180:8082/file-grey.elf
 http://34.45.47.180:8082/file-suspicious-elf-header-amd64.elf
-http://34.45.47.180:8082/file-unknown-big.elf
 http://34.45.47.180:8082/file.so
 http://36.100.132.147:40323/bin.sh
 http://36.100.132.147:40323/i
@@ -8357,6 +8433,8 @@ http://39.73.13.60:38435/bin.sh
 http://39.73.13.60:38435/i
 http://39.73.206.102:54460/bin.sh
 http://39.73.206.102:54460/i
+http://39.74.0.246:56363/bin.sh
+http://39.74.0.246:56363/i
 http://39.74.104.71:53789/bin.sh
 http://39.74.104.71:53789/i
 http://39.74.131.35:51320/bin.sh
@@ -8812,6 +8890,8 @@ http://42.231.216.73:49020/bin.sh
 http://42.231.216.73:49020/i
 http://42.231.229.219:53079/bin.sh
 http://42.231.229.219:53079/i
+http://42.231.248.246:50019/bin.sh
+http://42.231.248.246:50019/i
 http://42.231.249.130:52311/bin.sh
 http://42.231.249.130:52311/i
 http://42.231.250.215:59905/i
@@ -8897,6 +8977,8 @@ http://42.232.83.193:35428/bin.sh
 http://42.232.83.193:35428/i
 http://42.232.90.69:37084/bin.sh
 http://42.232.90.69:37084/i
+http://42.233.104.16:42433/bin.sh
+http://42.233.104.16:42433/i
 http://42.233.105.133:53392/bin.sh
 http://42.233.105.133:53392/i
 http://42.233.105.53:40154/bin.sh
@@ -9218,6 +9300,7 @@ http://42.7.155.108:45939/i
 http://42.7.203.77:53476/bin.sh
 http://42.7.203.77:53476/i
 http://42.7.7.87:49962/i
+http://42.85.135.133:46174/bin.sh
 http://42.85.135.133:46174/i
 http://42.85.161.29:39651/i
 http://42.85.162.174:47084/bin.sh
@@ -10967,6 +11050,8 @@ http://58.255.42.127:41434/i
 http://58.255.42.68:47311/i
 http://58.255.42.74:60470/i
 http://58.255.43.56:50746/i
+http://58.37.101.152:39822/bin.sh
+http://58.37.101.152:39822/i
 http://58.65.216.9:58090/Mozi.m
 http://59.101.0.88:48523/bin.sh
 http://59.101.0.88:48523/i
@@ -10976,6 +11061,8 @@ http://59.103.100.228:52564/Mozi.a
 http://59.103.106.182:39713/Mozi.a
 http://59.103.116.68:50721/bin.sh
 http://59.103.116.68:50721/i
+http://59.103.116.68:50760/bin.sh
+http://59.103.116.68:50760/i
 http://59.176.80.131:60859/Mozi.a
 http://59.42.89.103:56735/bin.sh
 http://59.42.89.103:56735/i
@@ -11036,6 +11123,7 @@ http://59.97.251.136:41892/i
 http://59.97.251.215:50487/bin.sh
 http://59.97.252.171:48996/bin.sh
 http://59.97.253.144:42563/bin.sh
+http://59.97.254.241:38566/bin.sh
 http://59.97.255.146:44379/bin.sh
 http://59.97.255.179:33615/bin.sh
 http://59.97.255.179:33615/i
@@ -11063,6 +11151,8 @@ http://60.18.122.47:45482/bin.sh
 http://60.18.122.47:45482/i
 http://60.18.3.226:48688/bin.sh
 http://60.18.3.226:48688/i
+http://60.18.9.243:54601/bin.sh
+http://60.18.9.243:54601/i
 http://60.182.226.145:57513/bin.sh
 http://60.182.226.145:57513/i
 http://60.182.239.45:57513/bin.sh
@@ -11179,6 +11269,7 @@ http://61.52.158.25:39999/bin.sh
 http://61.52.158.25:39999/i
 http://61.52.159.173:55158/bin.sh
 http://61.52.159.173:55158/i
+http://61.52.159.219:49548/i
 http://61.52.159.69:34853/bin.sh
 http://61.52.159.69:34853/i
 http://61.52.169.246:45354/bin.sh
@@ -11225,6 +11316,8 @@ http://61.52.55.100:52641/bin.sh
 http://61.52.55.100:52641/i
 http://61.52.60.142:47213/bin.sh
 http://61.52.60.142:47213/i
+http://61.52.61.0:41421/bin.sh
+http://61.52.61.0:41421/i
 http://61.52.62.177:34846/bin.sh
 http://61.52.62.177:34846/i
 http://61.52.75.127:57045/bin.sh
@@ -12149,6 +12242,8 @@ http://85.11.167.201/nz/nz.x86_64
 http://85.11.167.52/main.exe
 http://85.12.237.201:53945/i
 http://85.121.177.73:8080/$arch
+http://85.121.177.73:8080/arm5
+http://85.121.177.73:8080/arm7
 http://85.121.240.117/ASdoIee.txt
 http://85.121.240.117/AbgbIpo.txt
 http://85.121.240.117/IfadgiF.txt
@@ -12311,6 +12406,7 @@ http://91.92.242.236/files-129312398/files/file_1bd787051c777547.exe
 http://91.92.242.236/files-129312398/files/file_1c1ecdd3b3271647.exe
 http://91.92.242.236/files-129312398/files/file_1d09f8a88fb14d77.exe
 http://91.92.242.236/files-129312398/files/file_1f8420f6b572e644.exe
+http://91.92.242.236/files-129312398/files/file_209179a8e2c708bf.exe
 http://91.92.242.236/files-129312398/files/file_20f0cbfc975b37a7.exe
 http://91.92.242.236/files-129312398/files/file_21dee3aac891056b.exe
 http://91.92.242.236/files-129312398/files/file_22876292da8a0d01.exe
@@ -12325,6 +12421,7 @@ http://91.92.242.236/files-129312398/files/file_2c556ecd3d7ebd26.exe
 http://91.92.242.236/files-129312398/files/file_2cc2c9ed16116f73.exe
 http://91.92.242.236/files-129312398/files/file_2e6917a6c33f979e.exe
 http://91.92.242.236/files-129312398/files/file_301b2cac623503b0.exe
+http://91.92.242.236/files-129312398/files/file_3023e225bbb525a2.exe
 http://91.92.242.236/files-129312398/files/file_302a59396fd6bb59.exe
 http://91.92.242.236/files-129312398/files/file_30ecb0a5dbaa1ba1.exe
 http://91.92.242.236/files-129312398/files/file_314324949baa48e0.exe
@@ -12341,6 +12438,7 @@ http://91.92.242.236/files-129312398/files/file_396aa4593b46cf32.exe
 http://91.92.242.236/files-129312398/files/file_39e00d6f9516aa4f.exe
 http://91.92.242.236/files-129312398/files/file_3cd781bcee69e6b7.exe
 http://91.92.242.236/files-129312398/files/file_3d6f265ae4f77890.exe
+http://91.92.242.236/files-129312398/files/file_3dfa6b71eb1f52a6.exe
 http://91.92.242.236/files-129312398/files/file_3e952b2ae3899c34.exe
 http://91.92.242.236/files-129312398/files/file_3ea5e472e881dbd0.exe
 http://91.92.242.236/files-129312398/files/file_3f39b4276744a983.exe
@@ -12388,6 +12486,7 @@ http://91.92.242.236/files-129312398/files/file_639c336330ba48b7.exe
 http://91.92.242.236/files-129312398/files/file_63fd82abe8bb1c1a.exe
 http://91.92.242.236/files-129312398/files/file_643960b2b6504b03.exe
 http://91.92.242.236/files-129312398/files/file_661a3ef950b7329f.exe
+http://91.92.242.236/files-129312398/files/file_66c32cd63efcd63a.exe
 http://91.92.242.236/files-129312398/files/file_678a638ac5fc633b.exe
 http://91.92.242.236/files-129312398/files/file_67f5cec408166426.exe
 http://91.92.242.236/files-129312398/files/file_693c5dc771ac90cb.exe
@@ -12434,6 +12533,7 @@ http://91.92.242.236/files-129312398/files/file_95b15a86a95538ac.exe
 http://91.92.242.236/files-129312398/files/file_95d2c71c3ff1d697.exe
 http://91.92.242.236/files-129312398/files/file_964a41c5ea52bfc9.exe
 http://91.92.242.236/files-129312398/files/file_96500d1cd646a6d8.exe
+http://91.92.242.236/files-129312398/files/file_976accf0e9ed987a.exe
 http://91.92.242.236/files-129312398/files/file_98db67ec4791c842.exe
 http://91.92.242.236/files-129312398/files/file_98de8e9324af4477.exe
 http://91.92.242.236/files-129312398/files/file_9baded2dd13b1073.exe
@@ -12465,6 +12565,7 @@ http://91.92.242.236/files-129312398/files/file_b231a467b58438dc.exe
 http://91.92.242.236/files-129312398/files/file_b29e08dc8252bb79.exe
 http://91.92.242.236/files-129312398/files/file_b34bc862de1448b8.exe
 http://91.92.242.236/files-129312398/files/file_b36800b0d3cfa189.exe
+http://91.92.242.236/files-129312398/files/file_b3d68e4962922902.exe
 http://91.92.242.236/files-129312398/files/file_b3f400dc7a2ef2be.exe
 http://91.92.242.236/files-129312398/files/file_b51c36e8b987a353.exe
 http://91.92.242.236/files-129312398/files/file_b6b65062e1a97e1e.exe
@@ -12491,6 +12592,7 @@ http://91.92.242.236/files-129312398/files/file_c728de98ac1beb8a.exe
 http://91.92.242.236/files-129312398/files/file_c75f64504b4e352a.exe
 http://91.92.242.236/files-129312398/files/file_c97ecfeaa6eec157.exe
 http://91.92.242.236/files-129312398/files/file_c9a136a95aa72292.exe
+http://91.92.242.236/files-129312398/files/file_c9a5c32c1c92715c.exe
 http://91.92.242.236/files-129312398/files/file_cb304e7539c83e32.exe
 http://91.92.242.236/files-129312398/files/file_cc1c1aabd55380d4.exe
 http://91.92.242.236/files-129312398/files/file_cde10ebfe6976055.exe
@@ -12499,6 +12601,7 @@ http://91.92.242.236/files-129312398/files/file_cf95ba24331b48d8.exe
 http://91.92.242.236/files-129312398/files/file_cfca4668fb703b9d.exe
 http://91.92.242.236/files-129312398/files/file_d03ee7ca7adf58d0.exe
 http://91.92.242.236/files-129312398/files/file_d0fcf96895b96f6f.exe
+http://91.92.242.236/files-129312398/files/file_d13505e7c52d17b5.exe
 http://91.92.242.236/files-129312398/files/file_d1bb2fad4ab2e94b.exe
 http://91.92.242.236/files-129312398/files/file_d30be19c59a663a8.exe
 http://91.92.242.236/files-129312398/files/file_d47a28124e19d797.exe
@@ -13741,6 +13844,7 @@ https://02y48l3v.asibshenasiyahya.shop/?ublib=c486cbe8-7fd5-4b2c-a94a-b746aa4a81
 https://03mnh00l.hugugmadani6.xyz/?ublib=5683a175-17eb-4c47-8094-c67d5b34861b
 https://04gzr1uh.alternatifdekorasyon.com/?ublib=c95ea92c-fd4c-42a5-acb8-0325b411a4d3
 https://05jsazp3.shart.casino/?ublib=1d28f3ea-d3c9-4384-ba4c-6c9caf7b8125
+https://07vh2ie1.jozve.download/?ublib=fcaa3645-db91-4ca2-ad42-9b39e783bfda
 https://09c1d5c3-1a6e-4c05-8e4e-eff75c6b5dd6.filesusr.com/ugd/09c1d5_4626761063374d69ab0351f21fd703ce.txt
 https://09c1d5c3-1a6e-4c05-8e4e-eff75c6b5dd6.filesusr.com/ugd/09c1d5_f29a3b493ad342199c678fc221f44af7.txt
 https://09ddpfx9.parspoker.casino/?ublib=3e69f766-07e6-4e99-ae17-d092feccd26d
@@ -14142,6 +14246,7 @@ https://7g5swyfn.bazipoop.com/?ublib=a815c546-6abb-42e5-8ac0-b3f3472f6189
 https://7ipg23zj.bet808.poker/?ublib=76959cda-9e5e-497a-9f75-e1b8f95ded46
 https://7kblrgq1.shartbazi.com/?ublib=928ef172-bb63-412e-8f45-0af70dc5c2f4
 https://7l4byl0u.mustatabashpazi.shop/?ublib=9f2a6de4-e120-4cc8-b431-c346378d9e6b
+https://7lm2xwqz.1x1bet.xyz/?ublib=d7785ba6-3af2-483c-9405-21a369fe8ba7
 https://7m9gr5qr.anodaz.co/?ublib=4388ea9d-77bf-4de1-9c8d-10b910f34e3e
 https://7ooj1o3v.tarbiyateslami.xyz/?ublib=aa879d2a-0555-45e3-8f82-e884a5c1d702
 https://7p8in376.tahgigbazargan.xyz/?ublib=c89cc9cd-6f84-4aef-a327-98936d9fb796
@@ -14230,6 +14335,7 @@ https://ach-sa.com/wp-content/plugins/resmushit-image-optimizer/stego_payload.pn
 https://acmgrupo.com/new/optimized_MSI.png
 https://acu1ajv0.irxbetkade.com/?ublib=f1f9a803-eca2-4d05-ab18-9af325c11ea8
 https://addeg.quranmohagegin.shop/b6e5f7fe-ac21-4fef-b7ed-e8ea43269d4c
+https://adoswjr.calvaryhospice.org/42978f33-ddfe-49ee-a0dd-941c38341157
 https://aegkmnbe.sanjeshvaandazegiri.shop/23acb8ac-eed7-4895-95bf-f10dc88b774b
 https://aencte.oxidbet.bet/2fcb2b8c-ae9a-4163-afe8-65a0ff051b3a
 https://aetherframework.digital/script.sh
@@ -14309,6 +14415,7 @@ https://baileyemas.com/adminme.png
 https://baolongwes.oss-ap-southeast-1.aliyuncs.com/blaoso/uac399.txt
 https://baolongwes.oss-ap-southeast-1.aliyuncs.com/spx/ficeo.zip
 https://baolongwes.oss-ap-southeast-1.aliyuncs.com/spx/spx.vbs
+https://barlucianocassino.com/g21hg1298h12j90gh129jhkg0.php?
 https://basic-blue-shrew.myfilebase.com/ipfs/QmNaXFQZwK4XA3P94A8ug5gte97BQr8UuA87JeDAPKVCdK
 https://baskor.mypi.co/optimized_MSI.png
 https://bazasvo2026.vercel.app/?download=1
@@ -14747,6 +14854,7 @@ https://ecomarkperu.com/ggggggggggggggggg.ps1
 https://ecomarkperu.com/vvvvvvvvv.ps1
 https://edfwndp0.chloroquineser.com/?ublib=0f9964f0-6866-45fb-abd1-3f855955f13b
 https://edtmogyp.red90.casino/32215893-67aa-4426-8368-31ccf3b184f7
+https://edvekzo.alohawatersports.com/b1efa50a-abe9-43a9-b31c-056eb1444520
 https://eehjqhe.homa.bet/7463fdb1-6ddc-4820-a2ae-0a92b0e59578
 https://eejgo.sakhtemandade.shop/244fa440-f3b8-4d3d-b17a-70a3df08ea9a
 https://eeqagxew.maharatmodiran.xyz/499787d7-5314-47b9-baf6-ae9fd3db0683
@@ -14820,6 +14928,7 @@ https://everycarebd.com/sddilo.exe
 https://everycarebd.com/speachhouse.exe
 https://everycarebd.com/venumol0985.png
 https://everztsi.maharatmodiran.xyz/33497cf8-28be-4556-82eb-c6cb58f74919
+https://evhg599x.lemongrassasiangrill.com/?ublib=7310e1df-da6b-4277-934f-16f541d56837
 https://eviwuji.megaparikade.com/795dba88-1861-4a71-85cc-e1304fd1625f
 https://ew8mvpi7.shartbandikade.online/?ublib=c9fc0f04-c58a-4c06-af49-0cb4186ca166
 https://ewnwfae.hesabdaripishrafte.xyz/3363275c-1462-4777-b6de-7e5d86004b47
@@ -14869,6 +14978,7 @@ https://fluffynoodle.xyz/ash
 https://fmhkmjyi.hugugtejarat4.xyz/9eb5aec8-8438-4acd-9cf2-b612af760d3e
 https://fmpdxnv.enfejar.poker/4dfaa57d-12f2-4dd8-a71f-2ca6e555e8ee
 https://fmrio.com/g/static/s/js/Client.exe
+https://fnd9555t.ligabfa.com/?ublib=a5761cd7-be72-4803-b8d7-9bc0ec15b75b
 https://fnuqorvu.sazebetonarme.xyz/571d266b-b190-4a4a-8c99-f29697ec3515
 https://fogotten17.vercel.app/
 https://fom7mdmz.1x303.casino/?ublib=d4eba9a3-6cd6-4f69-b6b0-b0e9b86a044f
@@ -15344,6 +15454,7 @@ https://jjgnawd.penalti.website/ba38d225-c05c-4c9b-bf1c-7c46250643c2
 https://jjotnoj.jojobetuyelik.info/6ff7a8b2-b82d-4677-93e5-3556ae2a72fd
 https://jjtsc3t1.homabet.com/?ublib=972d5e06-09a9-4110-9d4d-23e157d5644f
 https://jkkksuzy.masaelmohandesi.xyz/6bb7c077-e0c0-49f3-9828-7b5296dd5f8f
+https://jkltnrm.alohawatersports.com/2bf47fdd-54c6-49c8-a4ba-84e1bf175bc4
 https://jksidxrvz.bookdrive.xyz/db594d14-0456-4982-ba21-5ca2cbf5cb10
 https://jojxmyi.betwoonuyelik.com/9de42a33-f1b3-4683-8402-c5600ad3b0dc
 https://jolly-bread-f04e.deborahbmuellerziytqsjw7623.workers.dev/EjdhukaB
@@ -15539,6 +15650,7 @@ https://mamigummy.com/.well-known/stego_payload%20(9).png
 https://mamigummy.com/.well-known/stego_payload.png
 https://mamigummy.com/.well-known/usgh.png
 https://mamigummy.com/md/dog_payload.png
+https://manovingenieria.com/manovingenieria.zip
 https://maplecirrus.com/curl/*
 https://maplecirrus.com/curl/05523c8231cb3b01d6554123a1c994aa09ef6c8e4e0804d3ae8bfaa028aa0db9
 https://maryaxdn.sanjeshravani.shop/e19c2c74-2c32-4567-ac94-2e37e701f082
@@ -15745,6 +15857,7 @@ https://oxcydtg.1x1.cash/ea103b0c-1067-44fa-883c-b4872f2f96ed
 https://oxfzzuaq.tasisathosseini.shop/8f14f5a1-25de-4ced-a7b7-30205d9415fa
 https://oxtumf.jamjahani.football/e110cf6c-7c0e-446f-91df-e70389bc52e8
 https://oxzqss.azmoonzare.online/720d6b14-6cf6-4a4b-b0da-0ea60d867c7c
+https://oymbwsa.yek90bet.com/7e4025ac-d750-470f-8398-79e3893cb367
 https://oyqqqexh.maharatmodiran.xyz/3c74d3cd-53bd-40ea-9d79-055b55acf633
 https://oywlk.motorbook.xyz/29c283b3-28d8-4406-a383-8e0ad5565830
 https://ozaauajb.mechanickhodakarami.shop/9ce2b967-b2dc-4a0a-9d24-4ce8a8b2e6ea
@@ -21337,6 +21450,7 @@ https://techosazteca.com/wp-admin/img_130809.png
 https://tecmon.hr/logs/pdf.ps1
 https://tegbxmn.betebetwin.com/afc9c3f8-44ef-4d73-be52-c177cae04e90
 https://testdomain.kognitivtrainer.de/agrimotor/kilobyte
+https://tfd2ceqg.bet365persian.com/?ublib=0d587752-4fe9-4340-8e98-76285279d677
 https://tfpvi.testranandegi.com/cad89886-cd51-421d-a844-b7955e75db47
 https://tfpypiqq.karbordriyaziyat.xyz/8d94cd44-7f7f-468f-aec5-446e19920eb9
 https://tfqpaye.one1x.bet/d361d500-0d6f-47f6-8fc6-081c7b4eb9fc
@@ -21675,6 +21789,7 @@ https://xupga.daneshkhanevade.xyz/f1239b7b-f498-489f-8cb1-5e59cb73b97e
 https://xvbfkf.jamjahani.app/2be3a3ae-4afa-4b5f-aaf4-a010647e6e60
 https://xvjjvja.differentialmamuli.store/ea1d6d5b-993a-45d3-a133-ea71d8beef3e
 https://xweepogg.jamjahani2026.football/eaafea33-00a7-4ed3-ad29-ddbe9349d2de
+https://xwlctmz.yek90bet.com/9edbbed0-fbd6-439c-b0d5-7399ef20c850
 https://xwnfpj7t.betrein.pro/?ublib=b3d51f5c-b226-4a07-b9a6-43a851fd6025
 https://xwtwlrkc.masaelmohandesi.xyz/b5ad4e07-9c41-46d3-94ab-63e209ebf91b
 https://xwwitjs.rayonbet.com/5e565f30-6b82-4f4b-94d0-1d30c4d9b952
