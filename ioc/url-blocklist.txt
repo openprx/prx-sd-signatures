@@ -1019,6 +1019,8 @@ http://110.39.226.32:35459/i
 http://110.39.227.44:51602/bin.sh
 http://110.39.227.44:51602/i
 http://110.39.227.81:60736/i
+http://110.39.228.78:49446/bin.sh
+http://110.39.228.78:49446/i
 http://110.39.229.188:33577/i
 http://110.39.230.1:53552/bin.sh
 http://110.39.230.1:53552/i
@@ -1157,6 +1159,7 @@ http://112.237.236.9:43718/bin.sh
 http://112.237.236.9:43718/i
 http://112.237.5.204:52050/bin.sh
 http://112.237.5.204:52050/i
+http://112.238.178.200:43963/i
 http://112.238.178.200:46827/bin.sh
 http://112.238.178.200:46827/i
 http://112.239.101.73:48551/bin.sh
@@ -4220,6 +4223,7 @@ http://154.242.143.178:47668/i
 http://154.242.15.112:38150/bin.sh
 http://154.242.15.112:38150/i
 http://154.250.102.0:49449/i
+http://154.90.70.23/x86
 http://155.103.69.239/45/wearebestforeverythingfrommegood.hta
 http://155.103.69.239/50/img_010818.png
 http://155.103.69.239/50/wegivingbestthingsforbetterplacescoming.hta
@@ -4691,6 +4695,7 @@ http://175.146.225.46:48972/i
 http://175.146.241.62:38131/i
 http://175.146.54.164:45403/i
 http://175.146.54.164:50996/i
+http://175.146.6.50:52389/bin.sh
 http://175.147.154.140:40485/bin.sh
 http://175.147.154.140:40485/i
 http://175.147.159.41:36190/bin.sh
@@ -4952,9 +4957,15 @@ http://176.65.139.226/iran.sparc
 http://176.65.139.226/iran.x86_64
 http://176.65.139.226/telnet.sh
 http://176.65.139.228:6677/Exodus.sh
+http://176.65.139.228:6677/bins/arm4
 http://176.65.139.228:6677/bins/arm5
+http://176.65.139.228:6677/bins/arm6
+http://176.65.139.228:6677/bins/arm7
+http://176.65.139.228:6677/bins/m68k
 http://176.65.139.228:6677/bins/mips
 http://176.65.139.228:6677/bins/mipsel
+http://176.65.139.228:6677/bins/ppc
+http://176.65.139.228:6677/bins/sh4
 http://176.65.139.228:6677/bins/x32
 http://176.65.139.228:6677/bins/x86
 http://176.65.139.229/bins/parm
@@ -6307,6 +6318,14 @@ http://192.162.199.246/pb7Ulzhaae3xpSNrEvJH5yqqyMyIbnNF/6eq5gvOfRvNmCi54.exe
 http://192.162.199.246/pb7Ulzhaae3xpSNrEvJH5yqqyMyIbnNF/9z7BGnRGpgs8cZv7.exe
 http://192.162.199.246/pb7Ulzhaae3xpSNrEvJH5yqqyMyIbnNF/gM9anpOuZNKX8zHj.exe
 http://192.162.199.246/pb7Ulzhaae3xpSNrEvJH5yqqyMyIbnNF/mKM65Cf6QNqeOVw9.exe
+http://192.162.199.249/1edjop4tlj2d
+http://192.162.199.249/1vo6lm4y50k3ww0f
+http://192.162.199.249/8jot5vdohds0imt4
+http://192.162.199.249/8w6vq50fsu
+http://192.162.199.249/ezaenul9
+http://192.162.199.249/tzb10mmujurn
+http://192.162.199.249/y6b3fuzj0w6pt97e
+http://192.162.199.249/zeb8cgwmkkpvu7pc
 http://192.162.199.78/public_files/AvLeMQb.txt
 http://192.162.199.78/public_files/AxxEMtz.txt
 http://192.162.199.78/public_files/VjIFy5P.txt
@@ -6791,6 +6810,7 @@ http://205.237.110.232/wow
 http://206.62.120.157:43560/bin.sh
 http://206.62.120.157:43560/i
 http://206.62.120.34:37766/bin.sh
+http://207.189.4.110:8040/Bin/ScreenConnect.ClientSetup.msi?e=Access&y=Guest
 http://207.34.149.169:34385/i
 http://208.87.131.195:8080/pty10
 http://208.87.131.195:8080/pty3
@@ -8088,6 +8108,7 @@ http://27.37.102.150:54475/bin.sh
 http://27.37.102.150:54475/i
 http://27.37.103.182:39139/bin.sh
 http://27.37.103.182:39139/i
+http://27.37.103.246:42822/i
 http://27.37.103.86:40257/i
 http://27.44.144.81:36545/bin.sh
 http://27.44.144.81:36545/i
@@ -10845,6 +10866,7 @@ http://60.184.133.62:46798/i
 http://60.184.163.17:41849/bin.sh
 http://60.184.163.17:41849/i
 http://60.189.111.145:37976/bin.sh
+http://60.189.111.145:37976/i
 http://60.189.186.105:39631/bin.sh
 http://60.189.186.105:39631/i
 http://60.19.192.55:45381/bin.sh
@@ -11030,6 +11052,8 @@ http://61.53.201.115:57813/bin.sh
 http://61.53.201.115:57813/i
 http://61.53.216.33:38955/bin.sh
 http://61.53.216.33:38955/i
+http://61.53.219.139:36865/bin.sh
+http://61.53.219.139:36865/i
 http://61.53.220.232:55420/bin.sh
 http://61.53.220.232:55420/i
 http://61.53.237.126:41063/bin.sh
@@ -11102,6 +11126,7 @@ http://62.60.226.140/files/6306648329/70HzJdg.exe
 http://62.60.226.140/files/7061144442/nxumfOe.exe
 http://62.60.226.140/files/7559850987/2ultuYw.exe
 http://62.60.226.140/files/7559850987/hcXbK7A.exe
+http://62.60.226.140/files/7646424755/gX8992r.bat
 http://62.60.226.140/files/7782139129/4u8cR3O.exe
 http://62.60.226.140/files/7782139129/NeITqa0.exe
 http://62.60.226.140/files/7782139129/QbWm8Dl.exe
@@ -11834,6 +11859,7 @@ http://91.92.242.236/files-129312398/files/file_d92c6432e98f51c4.exe
 http://91.92.242.236/files-129312398/files/file_dbb696e0e28bde4c.exe
 http://91.92.242.236/files-129312398/files/file_dcd6503e21b6e736.exe
 http://91.92.242.236/files-129312398/files/file_de33e495882e1b4f.exe
+http://91.92.242.236/files-129312398/files/file_de67bd60facbd66c.exe
 http://91.92.242.236/files-129312398/files/file_dfaf71226362a1a6.exe
 http://91.92.242.236/files-129312398/files/file_e123b357e127708d.exe
 http://91.92.242.236/files-129312398/files/file_e1854d916cb8bd04.exe
@@ -15767,6 +15793,7 @@ https://firebasestorage.googleapis.com/v0/b/june-july-dd5c8/o/Cytophil.exe?alt=m
 https://firebasestorage.googleapis.com/v0/b/new-era-14dfd/o/Lincoln.ps1?alt=media&token=0b1e9378-0fc3-468d-9a3e-e5c215ea5f49
 https://fiwvrsju.yekbetyek.com/?ublib=5bd14b87-0af8-4e11-916d-f24263fc7bf9
 https://fkoqonr2vgbsw7qu.public.blob.vercel-storage.com/data.msi
+https://flooriscoveringworld.com/BOBBIN.exe
 https://flwhdzos.1xbetmag.com/b07c151e-b14b-4d22-9f78-352b9ca3c9c1/pf.ch
 https://flyi.jadoou.lat/d5b93ded-0a17-45fc-9966-6503327b5c0d
 https://fmgvaoemg.jadoou.lat/040fb16f-1e98-4a55-94da-d769e10c25d4
