@@ -351,6 +351,7 @@ http://106.40.242.20:46263/i
 http://106.40.243.20:36914/i
 http://106.57.6.80:53331/bin.sh
 http://106.57.6.80:53331/i
+http://106.57.7.26:53331/i
 http://106.58.114.77:58834/bin.sh
 http://106.58.114.77:58834/i
 http://107.172.172.208/72/weneedbestthingsfromthebetterplacesonthis.hta
@@ -2302,6 +2303,8 @@ http://123.10.145.33:33546/i
 http://123.10.146.56:33546/bin.sh
 http://123.10.146.56:33546/i
 http://123.10.146.56:42238/i
+http://123.10.15.71:53206/bin.sh
+http://123.10.15.71:53206/i
 http://123.10.155.173:55027/bin.sh
 http://123.10.155.173:55027/i
 http://123.10.224.231:49757/i
@@ -2580,6 +2583,7 @@ http://123.148.216.12:43983/bin.sh
 http://123.148.216.12:43983/i
 http://123.15.67.95:37431/i
 http://123.159.143.54:48887/i
+http://123.161.90.221:49111/Mozi.m
 http://123.161.90.221:49111/bin.sh
 http://123.161.90.221:49111/i
 http://123.161.90.29:49111/bin.sh
@@ -2657,6 +2661,7 @@ http://123.190.17.0:42140/bin.sh
 http://123.190.17.0:42140/i
 http://123.190.18.137:43516/bin.sh
 http://123.190.18.137:43516/i
+http://123.190.19.176:38010/bin.sh
 http://123.190.20.88:42140/bin.sh
 http://123.190.20.88:42140/i
 http://123.190.203.254:46174/bin.sh
@@ -3445,6 +3450,7 @@ http://138.204.196.254:46255/bin.sh
 http://138.204.196.254:46255/i
 http://138.255.178.214:43405/bin.sh
 http://138.255.178.214:43405/i
+http://139.99.209.90/a/wget
 http://14.0.131.161:51651/i
 http://14.107.121.45:50511/bin.sh
 http://14.107.121.45:50511/i
@@ -3871,6 +3877,7 @@ http://160.250.181.124/iran.x86_64
 http://161.35.115.91/nvr
 http://162.246.26.77:54746/bin.sh
 http://162.246.26.77:54746/i
+http://162.249.125.145/ooo.sh
 http://162.255.251.91:33299/bin.sh
 http://162.255.251.91:33299/i
 http://162.255.251.91:37737/bin.sh
@@ -4181,6 +4188,8 @@ http://175.166.115.199:56157/bin.sh
 http://175.166.115.199:56157/i
 http://175.166.4.43:41537/bin.sh
 http://175.166.4.43:41537/i
+http://175.167.160.194:39578/bin.sh
+http://175.167.160.194:39578/i
 http://175.167.183.194:52110/bin.sh
 http://175.167.183.194:52110/i
 http://175.167.230.83:55986/bin.sh
@@ -5795,6 +5804,7 @@ http://182.126.116.139:54641/i
 http://182.126.116.9:40413/bin.sh
 http://182.126.116.9:40413/i
 http://182.126.116.9:54149/bin.sh
+http://182.126.116.9:54149/i
 http://182.126.117.59:58546/bin.sh
 http://182.126.117.59:58546/i
 http://182.126.118.161:54312/bin.sh
@@ -5964,6 +5974,8 @@ http://183.23.136.171:35951/bin.sh
 http://183.23.136.171:35951/i
 http://183.23.136.185:35951/bin.sh
 http://183.23.136.185:35951/i
+http://183.23.136.70:54790/bin.sh
+http://183.23.136.70:54790/i
 http://183.23.139.207:35951/Mozi.a
 http://183.23.139.207:35951/bin.sh
 http://183.23.139.207:35951/i
@@ -6299,6 +6311,9 @@ http://194.59.31.57:62123/b/kswpad
 http://194.59.31.57:62123/s/amd64
 http://194.59.31.57:62123/s/kal64
 http://194.59.31.57:62123/s/kswpad
+http://194.59.31.5:314/b/amd64
+http://194.59.31.5:314/b/kal64
+http://194.59.31.5:314/b/kswpad
 http://195.177.94.139/Xloadfile/bin.exe
 http://195.177.94.147/Bin/ScreenConnect.ClientSetup.exe
 http://195.177.94.240/Bin/ScreenConnect.ClientSetup.exe
@@ -6381,6 +6396,7 @@ http://196.189.98.77:39424/bin.sh
 http://196.189.98.77:39424/i
 http://196.189.98.77:43480/bin.sh
 http://196.189.98.77:43480/i
+http://196.189.98.77:43871/i
 http://196.189.98.77:58560/bin.sh
 http://196.189.98.77:58560/i
 http://196.189.98.77:59901/bin.sh
@@ -8539,6 +8555,7 @@ http://42.224.49.156:55210/bin.sh
 http://42.224.49.156:55210/i
 http://42.224.6.48:34549/bin.sh
 http://42.224.6.48:34549/i
+http://42.224.65.22:59416/i
 http://42.224.67.199:54598/bin.sh
 http://42.224.67.199:54598/i
 http://42.224.67.38:47591/bin.sh
@@ -11125,6 +11142,20 @@ http://72.56.52.158/gg/proxy.mipsel
 http://72.56.52.158/x
 http://74.127.168.68:33881/bin.sh
 http://74.127.168.68:33881/i
+http://74.81.40.155/cat.sh
+http://74.81.40.155/iran.aarch64
+http://74.81.40.155/iran.arc
+http://74.81.40.155/iran.armv4l
+http://74.81.40.155/iran.armv5l
+http://74.81.40.155/iran.armv6l
+http://74.81.40.155/iran.i486
+http://74.81.40.155/iran.m68k
+http://74.81.40.155/iran.mips
+http://74.81.40.155/iran.mipsel
+http://74.81.40.155/iran.powerpc
+http://74.81.40.155/iran.sh4
+http://74.81.40.155/iran.sparc
+http://74.81.40.155/iran.x86_64
 http://77.110.114.53/run.exe
 http://77.230.168.62:38054/i
 http://77.230.168.62:51199/i
@@ -11332,6 +11363,7 @@ http://85.11.167.203/x-8.6-.SNOOPY
 http://85.12.237.201:41070/i
 http://85.12.251.50:45018/bin.sh
 http://85.12.251.50:45018/i
+http://85.121.177.134/check3.sh
 http://85.121.5.157/abc.sh
 http://85.137.245.141:9001/1.exe
 http://85.137.245.141:9001/2.exe
@@ -11427,6 +11459,7 @@ http://91.92.242.236/files-129312398/files/file_00bdcc9da8206c4c.exe
 http://91.92.242.236/files-129312398/files/file_01625d1c89de2be0.exe
 http://91.92.242.236/files-129312398/files/file_018d7b156998810c.exe
 http://91.92.242.236/files-129312398/files/file_02013378a7416297.exe
+http://91.92.242.236/files-129312398/files/file_021779a853812046.exe
 http://91.92.242.236/files-129312398/files/file_05fc66617b4cf344.exe
 http://91.92.242.236/files-129312398/files/file_065966cf70492303.exe
 http://91.92.242.236/files-129312398/files/file_09b356d3e83b6e17.exe
@@ -11474,6 +11507,7 @@ http://91.92.242.236/files-129312398/files/file_3ddb7fbc2d6a04f1.exe
 http://91.92.242.236/files-129312398/files/file_3fe5ed2d30d53a73.exe
 http://91.92.242.236/files-129312398/files/file_40500e12ca54e02b.exe
 http://91.92.242.236/files-129312398/files/file_4144dfb259ed3b1b.exe
+http://91.92.242.236/files-129312398/files/file_414724c46e96b0eb.exe
 http://91.92.242.236/files-129312398/files/file_4270dd8330a6acbc.exe
 http://91.92.242.236/files-129312398/files/file_42c98f5185e31ea5.exe
 http://91.92.242.236/files-129312398/files/file_43c5f47d5fbe115a.exe
@@ -11900,6 +11934,7 @@ http://94.154.43.107/bins.sh
 http://94.154.43.107/bins/arm
 http://94.154.43.107/bins/arm5
 http://94.154.43.107/bins/arm6
+http://94.154.43.107/bins/arm64
 http://94.154.43.107/bins/arm7
 http://94.154.43.107/bins/dbg
 http://94.154.43.107/bins/i686
@@ -14891,6 +14926,7 @@ https://tattinamecheap.com/QuickFetch.exe
 https://taunahi.st/TaunahiLoader-1.21.11-v4.2.5.jar
 https://taunahi.st/TaunahiLoader-26.2.jar
 https://teakivo.com//wp-content/bin.exe
+https://teleabonent.ru/abonent.apk
 https://telemetryloop.net/get_verify?i=76513
 https://theservice4u.com/install/sarafina.exe
 https://threedrows.net/uploads/cl1786993325591.exe
