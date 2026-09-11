@@ -106,6 +106,7 @@ http://103.167.175.108:51706/i
 http://103.167.175.111:39996/bin.sh
 http://103.167.175.111:39996/i
 http://103.167.175.121:55532/i
+http://103.171.168.74:33809/bin.sh
 http://103.171.168.74:33809/i
 http://103.172.186.146:38619/bin.sh
 http://103.172.186.146:38619/i
@@ -275,6 +276,8 @@ http://105.184.180.148:36857/bin.sh
 http://105.184.180.148:36857/i
 http://105.184.213.168:46781/bin.sh
 http://105.184.213.168:46781/i
+http://105.184.213.176:55983/bin.sh
+http://105.184.213.176:55983/i
 http://105.184.232.230:54381/bin.sh
 http://105.184.232.230:54381/i
 http://105.184.239.231:44767/bin.sh
@@ -2015,6 +2018,7 @@ http://119.179.215.39:34360/bin.sh
 http://119.179.215.39:34360/i
 http://119.179.215.5:47336/bin.sh
 http://119.179.215.5:47336/i
+http://119.179.215.67:52251/i
 http://119.179.236.153:35587/bin.sh
 http://119.179.236.153:35587/i
 http://119.179.236.207:55846/bin.sh
@@ -2602,6 +2606,8 @@ http://123.190.18.137:43516/i
 http://123.190.19.176:38010/bin.sh
 http://123.190.23.212:38010/bin.sh
 http://123.190.23.212:38010/i
+http://123.190.27.84:51494/bin.sh
+http://123.190.27.84:51494/i
 http://123.190.28.100:58407/bin.sh
 http://123.190.28.100:58407/i
 http://123.190.6.182:54916/bin.sh
@@ -3457,6 +3463,7 @@ http://154.223.128.215:42469/i
 http://154.223.128.222:33167/i
 http://154.223.128.222:48066/bin.sh
 http://154.223.128.222:48066/i
+http://154.70.152.216/zed
 http://154.90.70.23/arm5
 http://154.90.70.23/arm7
 http://154.90.70.23/mips
@@ -3489,6 +3496,7 @@ http://157.66.146.183:44492/bin.sh
 http://157.66.146.183:44492/i
 http://158.255.83.204:53895/i
 http://158.255.83.212:41188/i
+http://158.255.83.95:40290/i
 http://159.196.55.40:50111/i
 http://159.203.80.145/web/2232342455.ps1
 http://159.203.80.145/web/7898378456445.ps1
@@ -3613,6 +3621,7 @@ http://165.98.243.83:44647/bin.sh
 http://165.98.243.83:44647/i
 http://166.0.192.57/loader
 http://167.172.167.65:8080/s.ps1
+http://167.235.91.194/v
 http://167.250.158.32:46664/i
 http://167.86.99.169/cat.sh
 http://167.86.99.169/iran.aarch64
@@ -3631,6 +3640,7 @@ http://167.86.99.169/iran.sh4
 http://167.86.99.169/iran.sparc
 http://167.86.99.169/iran.x86_64
 http://167.86.99.169/telnet.sh
+http://168.119.85.190/bash.sh
 http://168.222.254.17/gpon
 http://168.222.254.17/hiddenbin/boatnet.arc
 http://168.222.254.17/hiddenbin/boatnet.arm
@@ -3696,6 +3706,7 @@ http://173.92.213.119:60151/bin.sh
 http://173.92.213.119:60151/i
 http://174.105.154.212:55690/bin.sh
 http://174.105.154.212:55690/i
+http://174.138.85.68/zed
 http://175.0.60.188:40182/bin.sh
 http://175.0.60.188:40182/i
 http://175.107.12.59:45020/bin.sh
@@ -4473,6 +4484,9 @@ http://176.65.149.210/bins/x86
 http://176.65.149.210/bins/x86_64
 http://176.77.51.48:28807/bin.sh
 http://176.77.51.48:28807/i
+http://176.9.104.142/bin.sh
+http://176.9.104.142/ohshit.sh
+http://176.9.88.12/miner
 http://177.125.169.218:3660/bin.sh
 http://177.125.169.218:3660/i
 http://177.39.122.214:59838/i
@@ -5095,6 +5109,7 @@ http://182.121.177.176:36990/i
 http://182.121.179.219:53168/bin.sh
 http://182.121.179.219:53168/i
 http://182.121.181.105:36990/i
+http://182.121.181.208:36990/i
 http://182.121.185.249:41991/bin.sh
 http://182.121.185.249:41991/i
 http://182.121.216.74:42289/bin.sh
@@ -6588,6 +6603,7 @@ http://221.14.14.94:38720/i
 http://221.14.15.139:35706/i
 http://221.14.168.213:54946/i
 http://221.14.171.98:54946/i
+http://221.14.173.32:33059/i
 http://221.14.174.125:44223/bin.sh
 http://221.14.174.125:44223/i
 http://221.14.174.131:54946/Mozi.m
@@ -6721,6 +6737,8 @@ http://222.127.53.189:51312/bin.sh
 http://222.127.53.189:51312/i
 http://222.127.54.84:59994/bin.sh
 http://222.127.54.84:59994/i
+http://222.127.55.224:47900/bin.sh
+http://222.127.55.224:47900/i
 http://222.127.63.230:37978/bin.sh
 http://222.127.63.230:37978/i
 http://222.127.68.115:42552/Mozi.m
@@ -8127,6 +8145,7 @@ http://42.231.190.213:48304/bin.sh
 http://42.231.190.213:48304/i
 http://42.231.203.243:47565/bin.sh
 http://42.231.203.243:47565/i
+http://42.231.207.203:40714/i
 http://42.231.218.95:36712/bin.sh
 http://42.231.218.95:36712/i
 http://42.231.64.103:58110/bin.sh
@@ -8484,6 +8503,7 @@ http://42.57.220.37:50506/i
 http://42.57.66.51:42056/i
 http://42.58.118.214:47643/bin.sh
 http://42.58.118.214:47643/i
+http://42.58.171.35:34835/i
 http://42.58.172.216:34835/bin.sh
 http://42.58.172.216:34835/i
 http://42.58.252.119:37698/bin.sh
@@ -9565,6 +9585,7 @@ http://59.180.136.165:55956/i
 http://59.180.137.90:54794/i
 http://59.180.138.173:54794/i
 http://59.180.138.72:54794/i
+http://59.180.144.106:42402/i
 http://59.180.144.211:51836/bin.sh
 http://59.180.145.116:53945/i
 http://59.180.158.76:54794/i
@@ -10031,6 +10052,7 @@ http://62.60.226.140/files/8722997249/utRRFWX.exe
 http://62.60.226.140/files/8827821417/u3KZyzs.exe
 http://62.60.226.140/files/8894093030/v8eACE4.exe
 http://62.60.226.140/files/com/kliulij.exe
+http://62.60.226.140/files/gold/file.exe
 http://62.60.226.140/files/omega/file.exe
 http://62.60.226.140/files/unique2/file.exe
 http://62.60.249.165/gfg.sh
@@ -12184,6 +12206,7 @@ https://abilityindisabilityindia.org/wewe.exe
 https://abonent-app.ru/abonent.apk
 https://adopdf.shop/lkff.png
 https://adopdf.shop/msitime.png
+https://adpayworks.b-cdn.net/download/1.1.2/AdPayWorks.exe
 https://adps.pro/download/1.1.2/adpayworkstt.exe
 https://aeplled.cfd/stego/stego_7mpp3kpd10.png
 https://aetherone.su/downloads/meta-loader.exe
@@ -12676,6 +12699,7 @@ https://rabbitfuns.su/encrypted/1.zip
 https://rabbitfuns.su/main/powershell.exe
 https://raw.githubusercontent.com/Christa6547/davidrun/refs/heads/main/pull2395
 https://raw.githubusercontent.com/Christa6547/fling/refs/heads/main/scoop
+https://raw.githubusercontent.com/HartayKirjonrw/sa4/refs/heads/main/Signature%20Nib.exe
 https://raw.githubusercontent.com/Orukemer/Biniebiere/refs/heads/main/mffIhbI.txt
 https://raw.githubusercontent.com/Orukemer/bestweek/refs/heads/main/mnonfAk.txt
 https://raw.githubusercontent.com/Orukemer/goodman/refs/heads/main/IfIbbSi.txt
@@ -12912,6 +12936,7 @@ https://www.ryzhe.com/down88
 https://www.stratagemzw.com/MSI_PRO.png
 https://www.zenledgerpolicy.com
 https://wylkpznq.xyz/hukl/cp/bin.exe
+https://xolep1.tos-cn-beijing.volces.com/Project-rd.exe
 https://xxpro.dev/BAC_PC%E5%A3%B3.exe
 https://zcalton.com/UTODYIBG.msi
 https://zetaval.metcalfphoto.com/update.sh
