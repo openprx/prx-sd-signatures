@@ -3,7 +3,7 @@
 		                Handler on Duty: <a title="Johannes Ullrich" href="/handler_list.html#johannes-ullrich">Johannes Ullrich</a>
 		            <div>
 		            <li class="first"><a href="/contact.html">Contact Us</a></li>
-		        <div class="isc-alerts" style="background: yellow;">
+		        <div class="isc-alerts">
 		    <div class="main-content">    <p>Sorry, the page you where looking for could not be displayed at this time.</p>
 		    <div class="wrapper">
 		    <li><a href="/tools/honeypot">Honeypot (RPi/AWS)</a></li>
@@ -52,7 +52,7 @@
                     </svg> Podcasts
                     </svg> Tools
                     </svg>Contact Us
-                    <div style="background: black; color: white;">Threat Level: <a href="/infocon.html" style="text-transform: capitalize; color: yellow">yellow</a></div>
+                    <div style="background: black; color: white;">Threat Level: <a href="/infocon.html" style="text-transform: capitalize; color: green">green</a></div>
                     <li class="first"><a href="/howto.html">DShield Sensor</a></li>
                     <li><a href="/about.html">About Us</a></li>
                     <li><a href="/api">API</a></li>
@@ -130,7 +130,7 @@
         <div class="isc-signin">
         <div class="questions-sidebar">
         <h1>
-        <p>Subscribe to the daily podcast via <a href="/dailypodcast.xml">RSS</a> or <a href="http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=304863991">iTunes</a></p>
+        <p>Keep yourself informed with our <a href="/newssummary.html">aggregate InfoSec news</a></p>
         <span class="bar" aria-hidden="true"></span>
         <ul>
         help in debugging.
@@ -182,7 +182,7 @@
 <!-- end Slack -->
 <!-- end mastodon -->
 <!-- social media links -->
-<!-- this is not the comment you are looking for cbbf1c8bb5d080e86 -->
+<!-- this is not the comment you are looking for cdf1af7db19 -->
 <!doctype html><html lang="en"><head><title>ERROR - SANS Internet Storm Center</title>
 </a>
 </body></html>
