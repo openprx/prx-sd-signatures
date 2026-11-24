@@ -1,10 +1,5 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
-</body></html>
-</head><body>
-<address>Apache Server at urlhaus.abuse.ch Port 443</address>
-<h1>Gone</h1>
-<hr>
-<html><head>
-<p>The requested resource is no longer available on this server and there is no forwarding address.
-<title>410 Gone</title>
-Please remove all references to this resource.</p>
+410 Gone: legacy URLhaus file exports are no longer available at this URL.
+Get a free Auth-Key at https://auth.abuse.ch/ and switch to the new export URLs:
+Help: https://contact.abuse.ch/
+Since 21 October 2026, abuse.ch file exports need an Auth-Key.
+https://urlhaus.abuse.ch/api/
